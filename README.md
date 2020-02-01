@@ -14,7 +14,7 @@
 ### App Walkthough GIF
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/grw61Nz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/xxiH8bJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
