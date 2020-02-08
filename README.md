@@ -12,7 +12,7 @@
 
 ### App Walkthough GIF
 
-<img src='https://imgur.com/0Wkm5U6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/Wxy7OnY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
